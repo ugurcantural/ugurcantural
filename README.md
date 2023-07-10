@@ -13,6 +13,6 @@
 </p>
 
 <p align="center">
- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ugurcantural&show_icons=true&theme=radical">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ugurcantural&show_icons=true&theme=radical">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurcantural&layout=compact&theme=radical">
 </p>
